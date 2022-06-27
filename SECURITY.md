@@ -5,9 +5,9 @@
 | Version | Supported          |
 | ------- | ------------------ |
 | pre.1   | :white_check_mark: |
-| soon   | :x:                |
-| soon   | :white_check_mark: |
-| soon   | :x:                |
+| soon   | :x:                 |
+| soon   | :x:                 |
+| soon   | :x:                 |
 
 ## Reporting a Vulnerability
 
