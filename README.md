@@ -1,1 +1,1 @@
-# Enchant-datapack
+# Enchanting-datapack
