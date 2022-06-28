@@ -1,3 +1,4 @@
+kill @s[gamemode=!creative]
 enchant @s minecraft:fire_aspect 2
 enchant @s minecraft:looting 3
 enchant @s mnecraft:unbreaking 3
